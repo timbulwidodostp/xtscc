@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'xtscc': Regression with Driscoll-Kraay robust standard errors for panels with cross-sectional dependence Use xtscc With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f xtscc.ado
+f xtscc.hlp
+f xtscc_p.ado
+f xtscc_postestimation.hlp
