@@ -1,6 +1,8 @@
 # xtscc
 Regression with Driscoll-Kraay robust standard errors for panels with cross-sectional dependence Use xtscc With STATA 18
 
+https://www.youtube.com/watch?v=cDBB5bTfiFw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
